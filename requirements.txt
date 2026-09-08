@@ -1,0 +1,21 @@
+# Core ML
+scikit-learn==1.3.2
+xgboost==2.0.3
+
+# Data Processing
+pandas==2.1.4
+numpy==1.26.2
+
+# Visualization
+matplotlib==3.8.2
+seaborn==0.13.0
+
+# Experiment Tracking
+mlflow==2.9.1  # опционально
+
+# Jupyter
+jupyter==1.0.0
+ipykernel==6.28.0
+
+# Data Loading
+openml==0.14.2  # для загрузки датасетов
